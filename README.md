@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a web developer who is currently exploring the
 Here are a few things about me:
 
 - 🌱 I'm currently learning the basics of Artificial Intelligence to expand my skillset.
-- 👯 I'm looking forward to collaborating with other developers on GitHub.
+- 👀 I'm looking forward to collaborating with other developers on GitHub.
 - 🤩 I would greatly appreciate help with styling for the [dtquick](https://github.com/mohiwalla/dtquick) project.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If you search for [mohiwalla](https://google.com/search?q=mohiwalla) on Google, you'll find my social media accounts among the top five links! 😋
