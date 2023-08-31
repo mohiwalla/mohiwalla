@@ -8,7 +8,7 @@ Here are a few things about me:
 - 👀 I'm looking forward to collaborating with other developers on GitHub.
 - 🤩 I would greatly appreciate help with styling for the [dtquick](https://github.com/mohiwalla/dtquick) project.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If you search for [mohiwalla](https://google.com/search?q=mohiwalla) on Google, you'll find my social media accounts among the top five links! 😋
+- ⚡ Fun fact: If you search for [mohiwalla](https://google.com/search?q=mohiwalla) on Google, you'll find my social media accounts! 😋
 - 📫 Although I'm not very active on social media, you can still contact me by searching for `mohiwalla` on any popular platform.
 
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Have a great day!
