@@ -12,3 +12,5 @@ Here are a few things about me:
 - 📫 Although I'm not very active on social media, you can still contact me by searching for `mohiwalla` on any popular platform.
 
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Have a great day!
+
+[![An image of @mohiwalla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohiwalla)](https://holopin.io/@mohiwalla)
