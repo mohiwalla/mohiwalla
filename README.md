@@ -1,4 +1,4 @@
-# Hi there, I'm mohiwalla! 👋
+# Hi, I'm mohiwalla! 👋
 
 Welcome to my GitHub profile! I'm a web developer who is currently exploring the exciting world of Artificial Intelligence. If you're interested in collaborating on projects or have any questions, feel free to reach out. I'm always open to new opportunities and ideas.
 
