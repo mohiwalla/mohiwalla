@@ -13,4 +13,9 @@ Here are a few things about me:
 
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Have a great day!
 
-[![An image of @mohiwalla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohiwalla)](https://holopin.io/@mohiwalla)
+<p align="center">
+  <img alt="An image of @mohiwalla's GitHub report" src="https://github-readme-stats.vercel.app/api/?username=mohiwalla&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
+<p align="center">
+  <img alt="An image of @mohiwalla's Holopin badges, which is a link to view their full Holopin profile" src="https://boards.holopin.io/mohiwalla" />
+</p>
