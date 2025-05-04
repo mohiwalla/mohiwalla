@@ -1,21 +1,14 @@
 # Hi, I'm mohiwalla! 👋
 
-Welcome to my GitHub profile! I'm a web developer who is currently exploring the exciting world of Artificial Intelligence. If you're interested in collaborating on projects or have any questions, feel free to reach out. I'm always open to new opportunities and ideas.
+a full stack web developer.
 
 Here are a few things about me:
 
-- 🌱 I'm currently learning the basics of Artificial Intelligence to expand my skillset.
-- 👀 I'm looking forward to collaborating with other developers on GitHub.
-- 🤩 I would greatly appreciate help with styling for the [dtquick](https://github.com/mohiwalla/dtquick) project.
+- 👀 I'm looking forward to collaborating with fellow developers.
 - 😄 Pronouns: @types/express
-- ⚡ Fun fact: If you search for [mohiwalla](https://www.google.com/search?sca_esv=571655468&sxsrf=AM9HkKlNB2HCuvAWnp5YpQNwAx8Q3gJtwg%3A1696738876874&q=mohiwalla&stick=H4sIAAAAAAAAAONgU1I1qLBINE42N7RMNbQwsDAxNkmyMqhISTMwMDQzSTZKS7UwsTC1XMTKmZufkVmemJOTCADrs8nANQAAAA&mat=CQtGwOnL5zu9&ved=2ahUKEwjUhaHwzOWBAxUmwzgGHbcnCJ8QrMcEegQICBAH#ip=1) on Google, you'll find my social media accounts! 😋
-- 📫 Although I'm not very active on social media, you can still contact me by searching for `mohiwalla` on any popular platform.
+- ⚡ Fun fact: If you search [mohiwalla](https://www.google.com/search?q=mohiwalla) on ~Google~ internet, you'll find me! 😋
 
-Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Have a great day!
+Feel free to explore my repositories and reach out. Have a terrific day!
 
-<p align="center">
-  <img alt="An image of @mohiwalla's GitHub report" src="https://github-readme-stats.vercel.app/api/?username=mohiwalla&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
-<p align="center">
-  <img alt="An image of @mohiwalla's Holopin badges, which is a link to view their full Holopin profile" src="https://boards.holopin.io/mohiwalla" />
-</p>
+<img alt="An image of @mohiwalla's GitHub report" src="https://github-readme-stats.vercel.app/api/?username=mohiwalla&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+<img alt="An image of @mohiwalla's Holopin badges, which is a link to view their full Holopin profile" src="https://boards.holopin.io/mohiwalla" />
