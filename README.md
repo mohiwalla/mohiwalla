@@ -4,7 +4,7 @@ a full stack web developer.
 
 Here are a few things about me:
 
-- 👀 I'm looking forward to collaborating with fellow developers.
+- 👀 I'm looking for a female friend.
 - 😄 Pronouns: @types/express
 - ⚡ Fun fact: If you search [mohiwalla](https://www.google.com/search?q=mohiwalla) on ~Google~ internet, you'll find me! 😋
 
